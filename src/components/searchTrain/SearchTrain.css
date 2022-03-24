@@ -1,0 +1,13 @@
+.header-item {
+    background-color: #213d77;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.train_Search{
+    border-radius: 6px!important;
+    background: #fb792b!important;
+    color: #fff!important;
+    border-color: #fb792b!important;
+    font-size: 1.4rem;
+}

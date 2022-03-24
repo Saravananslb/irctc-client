@@ -1,0 +1,11 @@
+.tab-number {
+    border-radius: 60%;
+    padding: 5px 10px;
+    border: 1px solid #FAFAFA;
+    background-color: #fb792b;
+}
+
+.payment div {
+    padding: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.next-btn, .sort-available-btn, .previous-btn {
+    padding: 6px;
+    margin-left: 10px;
+}
+
+.sort-btn {
+    background-color: #213d77;
+    color: #ffffff;
+    padding: 6px;
+}

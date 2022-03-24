@@ -1,0 +1,11 @@
+.login-btn {
+    background-color: #213d77;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.register-btn, .contact-us-btn {
+    outline: none;
+    border: none;
+    background-color: #ffffff;
+}
